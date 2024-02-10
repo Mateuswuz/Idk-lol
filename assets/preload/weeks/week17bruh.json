@@ -1,0 +1,31 @@
+{
+	"storyName": "es como esa vez que tube la deathnote",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Glock",
+			"Lois",
+			[
+				155,
+				35,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Glock"
+}
